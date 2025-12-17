@@ -9,7 +9,7 @@ Mathematics Student at the University of Waterloo 📝
 📖**I’m currently learning**: Refining my SQL and R skills for financial datasets.
 
 ### 💬 About me
-- 🎒**Languages**: I am trilingual in English🇬🇧, French🇫🇷, and Mandarin Chinese🇨🇳.
+- 👩🏻‍💻**Languages**: I am trilingual in English🇬🇧, French🇫🇷, and Mandarin Chinese🇨🇳.
 - 😆**Fun fact**: I have been dancing for 15 years 🎶
 - ✨**Favourite Quote**: "If you can get 1% better each day for one year, you'll end up 37 times better by the time you're done" by **James Clear**
 
@@ -25,8 +25,8 @@ Mathematics Student at the University of Waterloo 📝
 ![Cognos](https://img.shields.io/badge/IBM_Cognos-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google-looker&logoColor=white)
 
-### 👩🏻‍💻 GitHub Stats
-![Muzi's Stats](https://github-readme-stats.vercel.app/api?username=zimu1i&show_icons=true&theme=dracula)
+### 🌟 Streak 
+![Muzi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=zimu1i&theme=dracula&hide_border=true)
 
 ### 👀
 ![Views](https://komarev.com/ghpvc/?username=zimu1i&color=ffb6c1&style=flat-square&label=PROFILE+VIEWS)
