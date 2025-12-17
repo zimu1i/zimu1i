@@ -11,7 +11,7 @@ Mathematics Student at the University of Waterloo 📝
 ### 💬 About me
 - 👩🏻‍💻**Languages**: I am trilingual in English🇬🇧, French🇫🇷, and Mandarin Chinese🇨🇳.
 - 😆**Fun fact**: I have been dancing for 15 years 🎶
-- ✨**Favourite Quote**: "If you can get 1% better each day for one year, you'll end up 37 times better by the time you're done" by **James Clear**
+- ✨**Favourite Quote**: "If you can get 1% better each day for one year, you'll end up 37 times better by the time you're done." by **James Clear**
 
 
 ### 🛠️ Languages & Core Tools
