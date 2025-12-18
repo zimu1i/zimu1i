@@ -26,7 +26,7 @@ Mathematics Student at the University of Waterloo 📝
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google-looker&logoColor=white)
 
 ### 🌟 Streak 
-![Muzi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=zimu1i&theme=dracula&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=zimu1i&theme=onedark-duo&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ### 👀
 ![Views](https://komarev.com/ghpvc/?username=zimu1i&color=ffb6c1&style=flat-square&label=PROFILE+VIEWS)
