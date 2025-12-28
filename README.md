@@ -8,12 +8,6 @@ Mathematics Student at the University of Waterloo 📝
 
 📖**I’m currently learning**: Refining my SQL and R skills for financial datasets.
 
-### 💬 About me
-- 👩🏻‍💻**Languages**: I am trilingual in English🇬🇧, French🇫🇷, and Mandarin Chinese🇨🇳.
-- 😆**Fun fact**: I have been dancing for 15 years 🎶
-- ✨**Favourite Quote**: "If you can get 1% better each day for one year, you'll end up 37 times better by the time you're done." by **James Clear**
-
-
 ### 🛠️ Languages & Core Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
