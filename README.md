@@ -1,4 +1,4 @@
-## Hi there👋 I'm Muzi! 
+## Hi there👋🏻 I'm Muzi! 
 
 👩🏻‍🎓**Current role**: 
 Mathematics Student at the University of Waterloo 📝
