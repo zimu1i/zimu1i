@@ -1,14 +1,15 @@
 ## Hi👋🏻 I'm Muzi! 
 
-### 📚 About me
+### 👩🏻‍💻 About me
 
 I build **data analytics pipelines, dashboards, and automated reports** that transform large datasets into clear, actionable insights. 
 My work focuses on **data visualization, metric design, and analytics-driven decision support**, with applications in finance, asset management, and data analytics.
 
-👩🏻‍🎓**Current role**: 
-Mathematics Student at the University of Waterloo 📝
+**Current role**: 
+Mathematics Student at the University of Waterloo.
 
-👩🏻‍💻**Currently learning**: Refining my SQL and R skills for financial datasets.
+**Currently learning**: 
+Refining my SQL and R skills for financial datasets.
 
 ### 🎯 Interests
 Data analytics • Business intelligence • Data Visualization • Asset management • Quantitative finance
