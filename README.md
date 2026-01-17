@@ -20,6 +20,7 @@ Data Analytics • Business Intelligence • Data Visualization • Asset Manage
 ![DrRacket](https://img.shields.io/badge/DrRacket-9F1D35?style=for-the-badge&logo=racket&logoColor=white)
 
 ### 📊 Analytics & Visualization
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
