@@ -28,10 +28,10 @@ Data Analytics • Business Intelligence • Data Visualization • Asset Manage
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 ### 💼 Business Intelligence Tools
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Cognos Analytics](https://img.shields.io/badge/IBM_Cognos-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google-looker&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### 🌟 GitHub Stats
 [![GitHub Stats](https://streak-stats.demolab.com?user=zimu1i&theme=onedark-duo&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
