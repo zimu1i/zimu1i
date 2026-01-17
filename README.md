@@ -1,4 +1,4 @@
-## Hi👋🏻 I'm Muzi! 
+## Hi 👋🏻 I'm Muzi! 
 
 ### 👩🏻‍💻 About me
 
