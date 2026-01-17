@@ -9,7 +9,7 @@ My work focuses on **data visualization, metric design, and analytics-driven dec
 Mathematics Student at the University of Waterloo.
 
 **Currently learning**: 
-Refining my SQL and R skills for financial datasets.
+Refining my SQL skills for large datasets.
 
 ### 🎯 Interests
 Data analytics • Business intelligence • Data Visualization • Asset management • Quantitative finance
