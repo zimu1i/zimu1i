@@ -2,7 +2,7 @@
 
 ### 👩🏻‍💻 About me
 
-I enjoy building **data analytics pipelines**, **dashboards**, and **automated reports** that transform large datasets into *clear*, *actionable* insights. My work focuses on data visualization, metric design, and analytics-driven decision support, with applications in **finance**, **asset management**, and **business intelligence**.
+I enjoy building **data analytics pipelines**, **dashboards**, and **automated reports** that transform large datasets into *clear*, *actionable* insights. My work focuses on data visualization, metric design, and analytics-driven decision support, with applications in **finance**, **risk/asset management**, and **business intelligence**.
 
 **Background:**: 
 Mathematics Student at the University of Waterloo.
