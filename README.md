@@ -8,7 +8,7 @@ I build **data analytics pipelines**, **dashboards**, and **automated reports** 
 Mathematics Student at the University of Waterloo.
 
 **Currently learning**: 
-Advanced SQL optimization and window functions for processing datasets with 10M+ rows.
+Advanced SQL optimization and window functions for processing larger datasets with 10M+ rows.
 
 ### 🎯 Interests
 Data Analytics • Business Intelligence • Data Visualization • Asset Management • Quantitative Finance • Time Series Analysis • Portfolio Optimization
