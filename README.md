@@ -37,7 +37,7 @@ Data Analytics • Business Intelligence • Data Visualization • Asset Manage
 [![GitHub Stats](https://streak-stats.demolab.com?user=zimu1i&theme=onedark-duo&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ### 😁 Let's connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muzi-li-469347340/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muzi-li01/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m846li@uwaterloo.ca)
 ![Views](https://komarev.com/ghpvc/?username=zimu1i&color=ffb6c1&style=flat-square&label=PROFILE+VIEWS)
 <!--
