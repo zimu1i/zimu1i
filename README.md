@@ -11,7 +11,7 @@ Currently exploring AI, algorithms, and applied research while building projects
 
 ## 🛠️ Skills
 - **Programming:** Python, C, SQL, DrRacket
-- **Data & ML:** pandas, numpy, matplotlib, scikit-learn, PyTorch  
+- **Data & ML:** pandas, numpy, matplotlib, scikit-learn, tensorflow, PyTorch  
 - **Tools & Platforms:** Git, GitHub, Linux, VS Code
 
 ## Let's connect!
