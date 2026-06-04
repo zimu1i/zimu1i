@@ -10,7 +10,7 @@ Currently exploring AI, algorithms, and applied research while building projects
 - 🚀 Always experimenting with new technologies and personal projects  
 
 ## 🛠️ Skills
-- **Programming:** Python, C, SQL, DrRacket
+- **Programming:** Python, C/C++, SQL, DrRacket
 - **Data & ML:** pandas, numpy, matplotlib, scikit-learn, tensorflow, PyTorch  
 - **Tools & Platforms:** Git, GitHub, Linux, VS Code
 
