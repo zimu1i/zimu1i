@@ -12,7 +12,7 @@ Currently exploring AI, algorithms, and applied research while building projects
 ## 🛠️ Skills
 - **Programming:** Python, C/C++, SQL, DrRacket
 - **Data & ML:** pandas, numpy, matplotlib, scikit-learn, tensorflow, PyTorch  
-- **Tools & Platforms:** Git, GitHub, Linux, VS Code
+- **Tools & Platforms:** Git/GitHub, Cursor, Claude Code, Linux, VS Code
 
 ## Let's connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muzi-li01/)
