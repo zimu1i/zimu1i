@@ -5,7 +5,7 @@ Currently exploring AI, algorithms, and applied research while building projects
 
 ## 🌱 About Me
 - 📍 Based in Toronto, Canada  
-- 🎓 Student: Mathematics Student at the University of Waterloo
+- 🎓 Student: Data Science Student at the University of Waterloo
 - 💡 Interests: AI, Machine Learning, and building intelligent systems
 - 🚀 Always experimenting with new technologies and personal projects  
 
