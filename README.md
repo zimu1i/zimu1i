@@ -1,18 +1,19 @@
 ## Hi 👋🏻 I'm Muzi! 
-I'm a passionate problem solver, turning data and ideas into real-world solutions. 
 
-Currently exploring AI, algorithms, and applied research while building projects that challenge my skills and creativity.
+I'm a Data Science student at the University of Waterloo who loves turning messy data into decisions that actually matter. I care about building things that work in the real world, not just on paper.
+When I'm not coding, you'll find me on the tennis court.
 
 ## 🌱 About Me
 - 📍 Based in Toronto, Canada  
-- 🎓 Student: Data Science Student at the University of Waterloo
-- 💡 Interests: AI, Machine Learning, and building intelligent systems
-- 🚀 Always experimenting with new technologies and personal projects  
+- 🎓 BMath in Data Science (CS + Statistics) @ University of Waterloo
+- 💡 Passionate about AI, machine learning, and building intelligent systems
+- 🚀 Tennis player/Dancer, always working on consistency
 
 ## 🛠️ Skills
-- **Programming:** Python, C/C++, SQL, DrRacket
-- **Data & ML:** pandas, numpy, matplotlib, scikit-learn, tensorflow, PyTorch  
-- **Tools & Platforms:** Git/GitHub, Cursor, Claude Code, Linux, VS Code
+- **Programming:** Python, SQL, C/C++, Bash, DrRacket
+- **Data & ML:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, XGBoost, SHAP, Matplotlib, DuckDB
+- **Concepts:** Anomaly Detection, Funnel Analysis, Cohort Analysis, A/B Testing, Feature Importance, Monte Carlo Simulation, Prompt Engineering
+- **Tools & Platforms:** Git, Linux, Docker, Jupyter, VS Code, Cursor, Claude Code
 
 ## Let's connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muzi-li01/)
