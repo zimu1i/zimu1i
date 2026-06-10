@@ -8,7 +8,7 @@ When I'm not coding, you'll find me on the tennis court.
 - 📍 Based in Toronto, Canada  
 - 🎓 BMath in Data Science (CS + Statistics) @ University of Waterloo
 - 💡 Passionate about AI, machine learning, and building intelligent systems
-- 🚀 Tennis player/Dancer, always working on consistency
+- 🎾 Tennis player/Dancer, always working on consistency
 
 ## 🛠️ Skills
 - **Programming:** Python, SQL, C/C++, Bash, DrRacket
