@@ -4,13 +4,13 @@ I'm a Data Science student at the University of Waterloo who loves turning messy
 
 When I'm not coding, you'll find me on the tennis court.
 
-## 🌱 About Me
+## About Me
 - 📍 Based in Toronto, Canada  
 - 🎓 BMath in Data Science (CS + Statistics) @ University of Waterloo
-- 💡 Passionate about AI, machine learning, and building intelligent systems
+- 🌱 Passionate about AI, machine learning, and building intelligent systems
 - 🎾 Tennis Player/Dancer, always working on resilience
 
-## 🛠️ Skills
+## Skills
 - **Programming:** Python, SQL, C/C++, Bash, DrRacket
 - **Data & ML:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, XGBoost, SHAP, Matplotlib, DuckDB
 - **Concepts:** Anomaly Detection, Funnel Analysis, Cohort Analysis, A/B Testing, Feature Importance, Monte Carlo Simulation, Prompt Engineering
