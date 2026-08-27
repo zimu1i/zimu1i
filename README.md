@@ -2,19 +2,18 @@
 
 I'm a Data Science student at the University of Waterloo who loves turning messy data into decisions that actually matter. I care about building things that work in the real world, not just on paper.
 
-When I'm not coding, you'll find me on the tennis court.
+When I'm not coding, you'll find me on the tennis court 🎾 (yay!)
 
 ## About Me
-- 📍 Based in Toronto, Canada  
+- 📍 Based in Toronto, Canada
 - 🎓 BMath in Data Science (CS + Statistics) @ University of Waterloo
 - 🌱 Passionate about AI, machine learning, and building intelligent systems
-- 🎾 Tennis Player/Dancer, always working on resilience
+- 🌟 Tennis Athele/Dancer (over 15 years of commitment), always working on resilience
 
 ## Skills
-- **Programming:** Python, SQL, C/C++, Bash, DrRacket
+- **Programming:** Python, SQL, C/C++, DrRacket
 - **Data & ML:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, XGBoost, SHAP, Matplotlib, DuckDB
-- **Concepts:** Anomaly Detection, Funnel Analysis, Cohort Analysis, A/B Testing, Feature Importance, Monte Carlo Simulation, Prompt Engineering
-- **Tools & Platforms:** Git, Linux, Docker, Jupyter, VS Code, Cursor, Claude Code
+- **Tools & Platforms:** Git, Linux, Docker, Jupyter, VS Code, Cursor, Claude
 
 ## Let's connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muzi-li01/)
