@@ -1,6 +1,7 @@
 ## Hi 👋🏻 I'm Muzi! 
 
-I'm a Data Science student at the University of Waterloo who loves turning messy data into decisions that actually matter. I care about building things that work in the real world, not just on paper.
+I'm a second-year Data Science student who loves turning messy data into decisions that actually matter. 
+I love experimenting with new ideas, exploring new tools, and turning curiosity into projects.
 
 When I'm not coding, you'll find me on the tennis court 🎾 (yay!)
 
