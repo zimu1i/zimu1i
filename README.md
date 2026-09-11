@@ -7,7 +7,7 @@ When I'm not coding, you'll find me on the tennis court 🎾 (yay!)
 
 ## About Me 🙋🏻‍♀️
 - Based in Toronto, Canada
-- BMath in Data Science (CS + Statistics) @ <img src="uwaterloo-seal.svg" width="20" height="20"/> University of Waterloo
+- BMath in Data Science (CS + Statistics) @ <img src="University_of_Waterloo_seal.svg" width="20" height="20"/> University of Waterloo
 - Passionate about AI, machine learning, and building intelligent systems
 - Tennis Athele/Dancer (over 15 years of commitment), always working on resilience
 
