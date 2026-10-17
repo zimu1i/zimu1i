@@ -45,7 +45,7 @@ My portfolio is a terminal you can actually type into → **[muzi1i.dev](https:/
 
 | | |
 |---|---|
-| 🎾 **[jax-transformer](https://github.com/zimu1i/jax-transformer)** | a decoder-only Transformer from scratch in raw `jax.numpy`, no library attention |
+| 🔤 **[jax-transformer](https://github.com/zimu1i/jax-transformer)** | a Transformer from scratch in JAX/Flax: hand-written attention & masks, Spanish→English translation |
 | 🖼️ **[render-denoiser](https://github.com/zimu1i/render-denoiser)** | a U-Net that denoises Monte Carlo renders (+7.85 dB PSNR, ~6× less compute) |
 | ⚖️ **[legal-mind-rag](https://github.com/zimu1i/legal-mind-rag)** | hybrid retrieval over Canadian corporate law, built from first principles |
 | 🎾 **[wimbledon-winner-prediction](https://github.com/zimu1i/wimbledon-winner-prediction)** | match-outcome prediction over 120k matches with XGBoost + SHAP |
