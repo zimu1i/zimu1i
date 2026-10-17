@@ -1,61 +1,68 @@
-## Hi 👋🏻 I'm Muzi! 
+<div align="center">
 
-I'm a second-year Data Science student who loves turning messy data into decisions that actually matter. 
-I love experimenting with new ideas, exploring new tools, and turning curiosity into projects.
+<a href="https://muzi1i.dev"><img src="mascot-banner.gif" alt="Mini Muzi and Captain the cat walking across a terminal" width="100%" /></a>
 
-When I'm not coding, you'll find me on the tennis court 🎾 (yay!)
+# `muzi:$` hi, i'm Muzi 👋
 
-## About Me 🙋🏻‍♀️
-- Based in Toronto, Canada
-- BMath in Data Science (CS + Statistics) <img src="University_of_Waterloo_seal.svg" width="20" height="20"/> University of Waterloo
-- Passionate about AI, machine learning, and building intelligent systems
-- Tennis Athele/Dancer (over 15 years of commitment!)
+**Data Science @ University of Waterloo** · reinforcement learning · machine learning · retrieval
 
-## Skills 👩🏻‍💻
+[![Portfolio](https://img.shields.io/badge/muzi1i.dev-0d1224?style=for-the-badge&logo=hackthebox&logoColor=fff3a3)](https://muzi1i.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muzi-li01/)
+[![Email](https://img.shields.io/badge/Email-bb9af7?style=for-the-badge&logo=gmail&logoColor=0d1224)](mailto:muzi.li1@uwaterloo.ca)
 
-### Programming Languages
+</div>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+---
 
-### ML & Deep Learning
+```
+λ :: ~ >> whoami
+```
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![JAX](https://img.shields.io/badge/JAX-282828?style=for-the-badge&logoColor=white)
-![Flax](https://img.shields.io/badge/Flax-282828?style=for-the-badge&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-338AF6?style=for-the-badge&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+I like building things at the intersection of **RL, deep learning and information retrieval** — from
+teaching simulated humanoids to play tennis 🎾 to hybrid search engines built from first principles.
+When I'm not coding you'll find me on the tennis court, dancing, or baking (yet another) banana bread 🍌
 
-### Systems & Tools
+My portfolio is a terminal you can actually type into → **[muzi1i.dev](https://muzi1i.dev)** (try `help`, then `muzi`)
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+---
 
+### 🛠️ tech i reach for
 
-## Let's connect 📬
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muzi-li01/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m846li@uwaterloo.ca)
-<!--
-**zimu1i/zimu1i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Python](https://img.shields.io/badge/Python-3a2d4f?style=flat-square&logo=python&logoColor=fff3a3)
+![PyTorch](https://img.shields.io/badge/PyTorch-3a2d4f?style=flat-square&logo=pytorch&logoColor=ff9e64)
+![JAX](https://img.shields.io/badge/JAX-3a2d4f?style=flat-square&logo=google&logoColor=7dcfff)
+![C++](https://img.shields.io/badge/C++-3a2d4f?style=flat-square&logo=cplusplus&logoColor=bb9af7)
+![SQL](https://img.shields.io/badge/SQL-3a2d4f?style=flat-square&logo=postgresql&logoColor=7dcfff)
+![FastAPI](https://img.shields.io/badge/FastAPI-3a2d4f?style=flat-square&logo=fastapi&logoColor=9ece6a)
+![Docker](https://img.shields.io/badge/Docker-3a2d4f?style=flat-square&logo=docker&logoColor=7dcfff)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-3a2d4f?style=flat-square&logo=scikitlearn&logoColor=ff9e64)
 
-Here are some ideas to get you started:
+`reinforcement learning (PPO)` · `U-Net & CNNs` · `RAG / hybrid retrieval` · `LLM evaluation`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I 
--->
+---
+
+### ✦ a few things i've built
+
+| | |
+|---|---|
+| 🎾 **[jax-transformer](https://github.com/zimu1i/jax-transformer)** | a decoder-only Transformer from scratch in raw `jax.numpy`, no library attention |
+| 🖼️ **[render-denoiser](https://github.com/zimu1i/render-denoiser)** | a U-Net that denoises Monte Carlo renders (+7.85 dB PSNR, ~6× less compute) |
+| ⚖️ **[legal-mind-rag](https://github.com/zimu1i/legal-mind-rag)** | hybrid retrieval over Canadian corporate law, built from first principles |
+| 🎾 **[wimbledon-winner-prediction](https://github.com/zimu1i/wimbledon-winner-prediction)** | match-outcome prediction over 120k matches with XGBoost + SHAP |
+
+---
+
+<div align="center">
+
+### 🐱 fun facts
+
+`basically fueled by americanos ☕` · `early bird (brain logs off after 11:30pm)` · `always refining my banana bread recipe`
+`i have a 13-year-old cat named Captain` · `lil me wanted to be an astronaut 🚀` · `huge sweet tooth 🍰`
+
+<br>
+
+![profile views](https://komarev.com/ghpvc/?username=zimu1i&style=flat-square&color=bb9af7&label=visitors)
+
+*⌐ psst — Captain and i live on [muzi1i.dev](https://muzi1i.dev) too. come say hi ✦*
+
+</div>
