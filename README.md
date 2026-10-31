@@ -28,14 +28,14 @@ My portfolio is a terminal you can actually type into → **[muzi1i.dev](https:/
 
 ### 🛠️ tech i reach for
 
-![Python](https://img.shields.io/badge/Python-3a2d4f?style=flat-square&logo=python&logoColor=fff3a3)
-![PyTorch](https://img.shields.io/badge/PyTorch-3a2d4f?style=flat-square&logo=pytorch&logoColor=ff9e64)
-![JAX](https://img.shields.io/badge/JAX-3a2d4f?style=flat-square&logo=google&logoColor=7dcfff)
-![C++](https://img.shields.io/badge/C++-3a2d4f?style=flat-square&logo=cplusplus&logoColor=bb9af7)
-![SQL](https://img.shields.io/badge/SQL-3a2d4f?style=flat-square&logo=postgresql&logoColor=7dcfff)
-![FastAPI](https://img.shields.io/badge/FastAPI-3a2d4f?style=flat-square&logo=fastapi&logoColor=9ece6a)
-![Docker](https://img.shields.io/badge/Docker-3a2d4f?style=flat-square&logo=docker&logoColor=7dcfff)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-3a2d4f?style=flat-square&logo=scikitlearn&logoColor=ff9e64)
+![Python](https://img.shields.io/badge/Python-3a2d4f?style=for-the-badge&logo=python&logoColor=fff3a3)
+![PyTorch](https://img.shields.io/badge/PyTorch-3a2d4f?style=for-the-badge&logo=pytorch&logoColor=ff9e64)
+![JAX](https://img.shields.io/badge/JAX-3a2d4f?style=for-the-badge&logo=google&logoColor=7dcfff)
+![C++](https://img.shields.io/badge/C++-3a2d4f?style=for-the-badge&logo=cplusplus&logoColor=bb9af7)
+![SQL](https://img.shields.io/badge/SQL-3a2d4f?style=for-the-badge&logo=postgresql&logoColor=7dcfff)
+![FastAPI](https://img.shields.io/badge/FastAPI-3a2d4f?style=for-the-badge&logo=fastapi&logoColor=9ece6a)
+![Docker](https://img.shields.io/badge/Docker-3a2d4f?style=for-the-badge&logo=docker&logoColor=7dcfff)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-3a2d4f?style=for-the-badge&logo=scikitlearn&logoColor=ff9e64)
 
 `reinforcement learning (PPO)` · `U-Net & CNNs` · `RAG / hybrid retrieval` · `LLM evaluation`
 
